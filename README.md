@@ -1,39 +1,37 @@
-📌 QR Studio – QR Generator + Scanner
+📘 QR Studio — Advanced QR Generator & Scanner
 
-A modern, professional desktop application built with Python, Tkinter, and OpenCV that lets you:
+A modern, feature-rich desktop application built with Python, CustomTkinter, and OpenCV that enables users to generate, scan, and decode QR codes with ease.
+Designed with a clean UI, fast performance, and practical functionality — ideal for both beginners and professionals.
 
-✔ Generate QR codes
-✔ Scan QR codes from images
-✔ Scan QR codes using your webcam (live camera)
-✔ Save generated QR images
-✔ Dark/Light theme UI
-✔ Beginner-friendly and perfect for GitHub portfolio
+⭐ Features
+🔹 QR Code Generator
 
-🚀 Features
-✅ Generate QR Codes
+Generate QR codes from text, URLs, and any input string
 
-Enter any text or URL
+Instant live preview
 
-Preview QR code instantly
+Save QR codes as high-quality PNG images
 
-Save QR as PNG
+🔹 QR Code Scanner (Image)
 
-✅ Scan QR from Image
+Upload QR images
 
-Upload any QR image
+Automatically detect and decode QR content
 
-Extract and display decoded text
+Error-handling for invalid or unreadable QR codes
 
-✅ Live Webcam Scanner
+🔹 Live Webcam Scanner
 
-Open camera
+Real-time QR detection using your system camera
 
-Live real-time scanning
+Auto-scan without pressing any button
 
-Auto-detect QR and decode
+Highlights detected QR on screen
 
-🎨 Modern UI
+🔹 Modern User Interface
 
-Built with customtkinter
+Built using CustomTkinter (dark/light theme)
 
-Clean, responsive design
+Minimal, clean, and professional look
+
+Responsive layout with clear navigation tabs
